@@ -6,11 +6,13 @@
 
 Visualization result:
 
-Test On Nepal datasets and Ebola datasets 
+Test On Nepal datasets and Ebola datasets. Test whether it can successfully split the topic into two parts
 ![Automatical LDA result](https://github.com/yuxiangh/LDA-Topic-Modeling/blob/master/Screen%20Shot%202018-07-09%20at%2012.37.57%20AM.png)
 
 
-Test On Nepal datasets
+
+
+Test On the whole Nepal datasets. 
 ![Automatical LDA result2](https://github.com/yuxiangh/LDA-Topic-Modeling/blob/master/Screen%20Shot%202018-07-09%20at%2012.40.28%20AM.png)
 
 
