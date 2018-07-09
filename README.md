@@ -12,7 +12,18 @@ Test On Nepal datasets and Ebola datasets. Test whether it can successfully spli
 
 
 
+![NepalEbola_coherence_perplexity_avg_cosine_similarity_plot](https://github.com/yuxiangh/LDA-Topic-Modeling/blob/master/Screen%20Shot%202018-07-09%20at%2010.23.13%20AM.png)
+
+
+
+
 Test On the whole Nepal datasets. 
 ![Automatical LDA result2](https://github.com/yuxiangh/LDA-Topic-Modeling/blob/master/Screen%20Shot%202018-07-09%20at%2012.40.28%20AM.png)
+
+
+
+![Nepal_coherence_perplexity_avg_cosine_similarity_plot](https://github.com/yuxiangh/LDA-Topic-Modeling/blob/master/Screen%20Shot%202018-07-09%20at%2010.23.25%20AM.png)
+
+
 
 
