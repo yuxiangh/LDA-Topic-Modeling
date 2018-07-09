@@ -4,6 +4,7 @@
 3.Visualization about the Topic modeling and return each topics meaning.    
 
 
+Visualization result:
 
 ![Automatical LDA result](https://github.com/yuxiangh/LDA-Topic-Modeling/blob/master/Screen%20Shot%202018-07-09%20at%2012.37.57%20AM.png)
 
