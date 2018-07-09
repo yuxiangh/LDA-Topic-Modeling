@@ -17,7 +17,9 @@ Test On Nepal datasets and Ebola datasets. Test whether it can successfully spli
 
 
 
-Test On the whole Nepal datasets. 
+
+
+Test On the whole Nepal datasets. This datasets include almost 30000 twitter messages about Nepal earthquake
 ![Automatical LDA result2](https://github.com/yuxiangh/LDA-Topic-Modeling/blob/master/Screen%20Shot%202018-07-09%20at%2012.40.28%20AM.png)
 
 
